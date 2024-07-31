@@ -93,10 +93,4 @@ Welcome to the Python- repository! This repository contains a comprehensive set 
 - Built-in modules
 - Creating custom modules
 - Package management
-### Author
--Talha Hussain
 
--GitHub: iamhussaintalha
--Personal Website: Talha Hussain
--Kaggle: hussaintalha
--LinkedIn: Talha Hussain
